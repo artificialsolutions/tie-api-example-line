@@ -1,6 +1,6 @@
 {
   "name": "line-teneo-connector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A basic example using Teneo and Line",
   "main": "server.js",
   "scripts": {
