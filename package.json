@@ -20,7 +20,7 @@
     "url": "https://github.com/artificialsolutions/tie-api-example-line"
   },
   "dependencies": {
-    "@artificialsolutions/tie-api-client": "^1.3.1",
+    "@artificialsolutions/tie-api-client": "^1.3.7",
     "@line/bot-sdk": "^6.8.0",
     "express": "^4.16.3",
     "http": "0.0.0"
