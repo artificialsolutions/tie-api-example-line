@@ -1,6 +1,6 @@
 {
   "name": "line-teneo-connector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A basic example using Teneo and Line",
   "main": "server.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "url": "https://github.com/artificialsolutions/tie-api-example-line"
   },
   "dependencies": {
-    "@artificialsolutions/tie-api-client": "^1.3.1",
+    "@artificialsolutions/tie-api-client": "^1.3.7",
     "@line/bot-sdk": "^6.8.0",
     "express": "^4.16.3",
     "http": "0.0.0"
