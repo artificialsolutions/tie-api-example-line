@@ -42,13 +42,13 @@ Your bot needs to be published and you need to know the engine URL.
     ```
 
 #### Make the connector available via HTTPS
-1. Next, we need to make the connector available via https. We'll use [ngrok](https://ngrok.com) for this.
+Next, we need to make the connector available via https. We'll use [ngrok](https://ngrok.com) for this.
 
-2. Start ngrok - The connector runs on port 3000 by default, so we need to start ngrok like this:
+1. Start ngrok - The connector runs on port 3000 by default, so we need to start ngrok like this:
     ```
     ngrok http 3000
     ```
-3. Running the command above will display a public https URL. Copy it, you will need it in the next section.
+2. Running the command above will display a public https URL. Copy it, you will need it in the next section.
 
 
 #### Update Webhook URL in the Line Provider
