@@ -1,6 +1,10 @@
 # tie-api-example-line
-This node.js example connector allows you to make your Teneo bot available on LINE. The connector acts as middleware between LINE and Teneo, by using the Messaging API to receive exchange messages. This guide will take you through the steps of creating a new LINE Provider and deploying the connector to respond to events sent by Teneo.
 
+> [!IMPORTANT]
+> This project has been retired and archived  
+> If there is a need of continued use / development of this project for your own needs please feel free to fork the project - which will remain here in archived form.
+
+This node.js example connector allows you to make your Teneo bot available on LINE. The connector acts as middleware between LINE and Teneo, by using the Messaging API to receive exchange messages. This guide will take you through the steps of creating a new LINE Provider and deploying the connector to respond to events sent by Teneo.
 
 ## Prerequisites
 ### Https
